@@ -31,7 +31,19 @@ https://git-scm.com/
  - após testado todo seu código
  - git add *
  - git commit -m "mensagem"
- - git push (enviar alterações para o repositório)
+ - git push (enviar alterações para o repositório GitHub)
+ - git pull (puxar / trazer alterações do GitHub para sua máquina)
 
 ## GitFlow
 Fluxo do Git
+
+### Branchs
+são ramificações / versões paralelas
+
+- main / master (vai para produção, quando o projeto é publicado)
+- develop 
+- DOD Definition of Done: critérios de aceite
+- versionamento 1.0.0
+
+### Merge
+Mescla de branchs
