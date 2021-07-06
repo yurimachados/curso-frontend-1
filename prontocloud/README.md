@@ -19,10 +19,10 @@
 - Evolução contínua: dividir o projeto em pequenas partes, testes, ciclos incrementais, revisão...
 - AIDA
 
-\\\\      Atenção      ////
-  \\\    Interesse    ///
-    \\     Desejo    //
-      \     Ação    /           call-to-action 4% - 20%
+- \\\\      Atenção      ////
+-   \\\    Interesse    ///
+-     \\     Desejo    //
+-       \     Ação    /           call-to-action 4% - 20%
 
             LEAD (e-mail)
 
