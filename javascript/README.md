@@ -31,22 +31,21 @@
  - Informação: resultado do processamento
  - Processamento de dados: Entrada (dados) > Processamento > Saída (informação)
  
- E a lógica?
+ #### E a lógica?
  Lógica é aquilo que faz sentido
 
- Como escrever um programa?
+#### Como escrever um programa?
  - Aplicar a lógica para descrever os passos para resolver um problema em ordem de execução
 
- A lógica de programação
+#### A lógica de programação
  - É a técnica de sequenciar pensamentos, passos, fluxo de dados para atingir um objetivo: a informação
  - A sequencia de passos, instruções que o computador deve seguir é conhecida como ALGORITMO
 
- Algoritmo
+ #### Algoritmo
  - Sequência lógica e finita de intruções que resolvem um problema
  - Exemplo: receita de bolo, manual de instrução
  - Nem todo algoritmo é um programa de computador, mas todo programa de computador é algoritmo
  - Quem viabiliza o funcionamento dos algoritmos nos computadores: linguagens de programação
-
 
 ### Algoritmo para calcular a média de 3 números
 1. Inicio;
@@ -57,11 +56,9 @@
 6. Exibir o resultado: print, echo, console.log ;
 7. Fim;
 
-
 ### Torre de Hanoi
 - Mover todos os discos para a direita, com o menor número de movimentos possível, sem colocar um disco em cima de um disco menor: https://www.somatematica.com.br/jogos/hanoi/
 - Jogos: https://www.somatematica.com.br/jogos.php
-
 
 ## Funcionalidades gerais
 - Criar algoritmos e programas para executar no navegador: client side
@@ -118,7 +115,7 @@ São utilizadas para referenciar espaço na memória
 - Módulo (resto de divisão) %
 - Math: random(), round(), sqrt().
 
-* Atribuição
+####  Atribuição
 a = b
 a += b
 a -= b
@@ -128,7 +125,7 @@ a %= b
 Adiciona 1 ++
 Subtrai 1 --
 
-* Operadores de Comparação / Lógicos
+#### Operadores de Comparação / Lógicos
 - Igual == ou ===
 - Diferente != 
 - Maior que >
