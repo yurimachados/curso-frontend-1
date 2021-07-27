@@ -24,28 +24,28 @@
 
 
 ## Lógica de Programação
-| - Computador:
-|   -- Máquina que extrai dados
-|   -- Processar: realizar operações nos dados de entrada
-| - Dado: é o que pode ser processado
-| - Informação: resultado do processamento
-| - Processamento de dados: Entrada (dados) > Processamento > Saída (informação)
-| 
-| E a lógica?
-| Lógica é aquilo que faz sentido
-|
-| Como escrever um programa?
-| - Aplicar a lógica para descrever os passos para resolver um problema em ordem de execução
-|
-| A lógica de programação
-| - É a técnica de sequenciar pensamentos, passos, fluxo de dados para atingir um objetivo: a informação
-| - A sequencia de passos, instruções que o computador deve seguir é conhecida como ALGORITMO
-|
-| Algoritmo
-| - Sequência lógica e finita de intruções que resolvem um problema
-| - Exemplo: receita de bolo, manual de instrução
-| - Nem todo algoritmo é um programa de computador, mas todo programa de computador é algoritmo
-| - Quem viabiliza o funcionamento dos algoritmos nos computadores: linguagens de programação
+ - Computador:
+   -- Máquina que extrai dados
+   -- Processar: realizar operações nos dados de entrada
+ - Dado: é o que pode ser processado
+ - Informação: resultado do processamento
+ - Processamento de dados: Entrada (dados) > Processamento > Saída (informação)
+ 
+ E a lógica?
+ Lógica é aquilo que faz sentido
+
+ Como escrever um programa?
+ - Aplicar a lógica para descrever os passos para resolver um problema em ordem de execução
+
+ A lógica de programação
+ - É a técnica de sequenciar pensamentos, passos, fluxo de dados para atingir um objetivo: a informação
+ - A sequencia de passos, instruções que o computador deve seguir é conhecida como ALGORITMO
+
+ Algoritmo
+ - Sequência lógica e finita de intruções que resolvem um problema
+ - Exemplo: receita de bolo, manual de instrução
+ - Nem todo algoritmo é um programa de computador, mas todo programa de computador é algoritmo
+ - Quem viabiliza o funcionamento dos algoritmos nos computadores: linguagens de programação
 
 
 ### Algoritmo para calcular a média de 3 números
