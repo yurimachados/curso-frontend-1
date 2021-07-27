@@ -73,11 +73,10 @@ Lógica é aquilo que faz sentido
 - Mongo.db / GraphQL: banco de dados em JS
 - React / Vue.js / Angular: frameworks JS para desenvolvimento web / mobile
 - React Native: framework JS para desenvolvimento mobile
-
-- rebece e manipular dados
-- tomar decisões baseados na lógica computacional 
-- loop e interações 
-- condições de saída
+- Rebecer e manipular dados
+- Tomar decisões baseados na lógica computacional 
+- Loop e interações 
+- Condições de saída
 
 ### Executar o JS
 - Console browsers
