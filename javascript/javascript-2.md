@@ -16,7 +16,7 @@
 <=   menor ou igual
 >=   maior ou igual
 ```
-** Exemplos **
+##### Exemplos 
 ```
 a = 5
 b = 4 
@@ -34,7 +34,7 @@ b = 4
 !==    diferença entre sentenças (valor e tipo)
 ```
 
-** Exemplo:
+##### Exemplo:
 ```
 a == b = true
 a != b = false
@@ -71,7 +71,7 @@ false é equivalente a 0
 
 Tem a capacidade de atribuir valor a uma variável a partir de uma condição lógica, economiza IFs
 
-Exemplo:
+##### Exemplo:
 ```
 var cor = "preto"
 var meuCarro = cor == "preto" ? "preto" : "branco";
