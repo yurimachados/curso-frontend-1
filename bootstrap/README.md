@@ -2,9 +2,12 @@
 - Framework ou biblioteca desenvolvimento
 - Modular
 - Componentes ricos
+- CSS + JS
+- Grid System
 - Responsivo
 - Mobile-first
 - Amplamente utilizada
+- Cross browser 
 
 ## Biblioteca x Framework
 - Biblioteca: oferece objetos / classes prontas para uso
@@ -18,7 +21,9 @@
 - Metodologias: Scrum, Kanban, XP
 - Entrega de valor para o negócio
 - Ciclos evolutivos
+- Não se repita
 - Separar grandes projetos em pequenas entregas
+- MVP - Mínimo Produto Viável
 - Estar envolvido x comprometido
 
 ## Vantagens
