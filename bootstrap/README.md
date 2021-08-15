@@ -86,4 +86,12 @@ https://getbootstrap.com/docs/5.1/components
 https://getbootstrap.com/docs/5.1/helpers
 
 
+# Font Awesome
+- Biblioteca de ícones
+https://fontawesome.com/start/
 
+
+# Exercicio
+- incluir carousel na home antes de sobre
+- completar o cadastro, tornando os campos obrigatórios
+- incluir campos: bairro, complemento e telefone
